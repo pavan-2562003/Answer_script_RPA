@@ -10,21 +10,16 @@ UiPath Studio: Install UiPath Studio on your machine. You can download it from U
 Email Account: Provide the email credentials (username and password) for the email account you want to use for sending answer scripts. Ensure that the email account allows access for less secure apps or generate an app-specific password.
 
 # Usage
-Clone Repository:
-
-bash
-Copy code
-git clone https://github.com/pavan-2562003/Answer_script_RPA.git
-cd your-repository
-Configure UiPath Project:
-
-Open the UiPath Studio.
-Open the project file (AnswerScriptAutomation.xaml) from the cloned repository.
-Update the necessary variables in the UiPath workflow, such as email credentials, script location, and recipient details.
-Run UiPath Script:
-
-Execute the UiPath script by clicking the "Run" button in UiPath Studio.
-Monitor the execution to ensure it completes without errors.
+->Clone Repository:
+->Copy code: git clone https://github.com/pavan-2562003/Answer_script_RPA.git
+->cd your-repository
+->Configure UiPath Project:
+->Open the UiPath Studio.
+->Open the project file (AnswerScriptAutomation.xaml) from the cloned repository.
+->Update the necessary variables in the UiPath workflow, such as email credentials, script location, and recipient details.
+->Run UiPath Script:
+->Execute the UiPath script by clicking the "Run" button in UiPath Studio.
+->Monitor the execution to ensure it completes without errors.
 
 # Verification:
 Verify that the answer scripts are successfully attached to the email.
