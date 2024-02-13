@@ -1,0 +1,41 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Data_Validation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "emails&Sequence_15",
+        "name&Sequence_54",
+        "email&Sequence_54",
+        "USN&Sequence_54",
+        "fileName&Sequence_31",
+        "email&Sequence_31",
+        "USN&Sequence_31",
+        "DuplicatesDataTable&Sequence_1",
+        "AbsentiesDataTable&Sequence_1",
+        "NewDataTableVariable&Sequence_1",
+        "newData&Sequence_45",
+        "name&Sequence_45",
+        "DataTableVariable&Sequence_1",
+        "fileNameWithoutExt&Sequence_1",
+        "duplicates&Sequence_1",
+        "usns1&Sequence_1",
+        "usns&Sequence_1",
+        "dt_FileNames&Sequence_1",
+        "FolderPath&Sequence_1",
+        "FilePath&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
